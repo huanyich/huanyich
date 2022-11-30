@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huanyich
-- 👀 I’m interested in everything
+- 👀 I’m interested in problem solving and new challenges!
 - 🌱 I’m currently learning C# and Web develope
 - 📫 Contact Me: yichanhuang86@gmail.com
 
