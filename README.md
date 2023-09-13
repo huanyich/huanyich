@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huanyich
-- 👀 I’m interested in problem solving and new challenges!
-- 🌱 I’m currently learning React and System Desgin
+- 👀 I’m interested in problem-solving and new challenges!
+- 🌱 I’m currently learning AWS
 - 📫 Contact Me: yichanhuang86@gmail.com
 
 <!---
